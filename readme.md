@@ -2,7 +2,7 @@
 
 ## Overview
 The goal of this [Kaggle Challenge](https://www.kaggle.com/c/cvpr-2018-autonomous-driving) is to accurately segment objects such as car and pedestrian at instance-level from the video sequences recorded by the autonomous driving car. Our solution is based on Mask R-CNN. We use both [Apolloscape](http://apolloscape.auto/) and [Cityscape](https://www.cityscapes-dataset.com/) datasets and only focus on a particular field of view in the image at the highest possible resolution. Our solution
-reaches the 2nd palce in the challenge (Private Socre 0.30219).
+reaches the 2nd palce in the challenge (Private Score 0.30219).
 
 ## Statistical Analysis
 The image resolution of Apolloscape is 3384 by 2710. However, our interesting objects are not uniformly distributed over the image. Actually, as revealed in the 2D
