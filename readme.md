@@ -19,7 +19,7 @@ a lower resolution should be considered to recognize those objects that are not 
 Another interesting finding is the threshold for the object detection. Through experiment, 0.25 is the optimal threshold to obtain the highest leader board score. We use the pretrained model from COCO dataset provided by the [Detectron Model Zoo](https://github.com/facebookresearch/Detectron/blob/master/MODEL_ZOO.md).
 More detailed information can be found from our project report. We also provide our [ model](https://www.dropbox.com/s/afwlpwfc9tw6nru/gold.pkl?dl=0) used for the competition.
 
-Usefull dataset linkes
-[www.nuscenes.org](www.nuscenes.org)
+Usefull dataset links
+[www.nuscenes.org](www.nuscenes.org)  <br />
 [apolloscape.auto](apolloscape.auto)
 
