@@ -20,6 +20,6 @@ Another interesting finding is the threshold for the object detection. Through e
 More detailed information can be found from our project report. We also provide our [ model](https://www.dropbox.com/s/afwlpwfc9tw6nru/gold.pkl?dl=0) used for the competition.
 
 Usefull dataset linkes
-www.nuscenes.org
-apolloscape.auto
+[www.nuscenes.org](www.nuscenes.org)
+[apolloscape.auto](apolloscape.auto)
 
