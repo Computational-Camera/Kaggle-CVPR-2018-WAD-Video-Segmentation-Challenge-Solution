@@ -1,7 +1,7 @@
 # CVPR 2018 WAD Video Segmentation Challenge Solution
 
 ## Overview
-I was lucky to secure the 2nd palace  <div class=figure> <img src="./pic/trophy.jpg" width="80px" /> </div>
+I was lucky to secure the 2nd palace <div align="right"> <img src="./pic/trophy.jpg" width="50px" /> </div>
 in the [Kaggle Challenge](https://www.kaggle.com/c/cvpr-2018-autonomous-driving), 2018 CVPR workshop on autonomous driving. The goal of this is to accurately segment objects such as car and pedestrian at instance-level from the video sequences recorded by the autonomous driving car. Our solution is based on Mask R-CNN. We use both [Apolloscape](http://apolloscape.auto/) and [Cityscape](https://www.cityscapes-dataset.com/) datasets and only focus on a particular field of view in the image at the highest possible resolution. 
 
 
